@@ -4,4 +4,4 @@ A clone of Discord UI using ReacJS and Typescript [Deployed here](https://kryman
 
 <p align="center">
   <img alt="Discord" src=".github/discord.png">
-</p>%
+</p>
